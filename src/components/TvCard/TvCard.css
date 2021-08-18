@@ -1,0 +1,17 @@
+#tv {
+  background: linear-gradient(90deg, rgb(10, 61, 98) 0%, rgb(234, 66, 73) 100%);
+  margin-top: 10px;
+}
+.title {
+  font-size: 4rem;
+  text-align: start;
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(90deg, rgb(10, 61, 98) 0%, rgb(234, 66, 73) 100%);
+  color: rgb(26, 191, 206);
+}
+.moyvideo {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}

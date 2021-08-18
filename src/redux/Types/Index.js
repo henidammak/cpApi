@@ -1,0 +1,2 @@
+export const ADD_JOUEUSE = "ADD_JOUEUSE";
+export const DELETE_JOUEUSE = "DELETE_JOUEUSE";

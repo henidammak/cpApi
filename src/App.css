@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.logo {
+  margin-left: 45.5%;
+  margin-right: 54.5%;
+  height: 100px;
+  width: 100px;
+}
+.sugg {
+  margin-left: -20rem;
+}
+.navbar {
+  background: rgb(20, 20, 44);
+}
+#colorsugg {
+  color: white;
+}

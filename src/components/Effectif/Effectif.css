@@ -1,0 +1,101 @@
+.bgeffectif {
+  background: linear-gradient(90deg, rgb(10, 61, 98) 0%, rgb(234, 66, 73) 100%);
+}
+
+.imgeff {
+  background: transparent;
+  height: 500px;
+  width: 500px;
+}
+.nameeff {
+  margin-right: 19rem;
+  padding-bottom: 20rem;
+  margin-top: -27rem;
+  font-family: Arial, sans-serif;
+  font-size: 3rem;
+  color: rgb(26, 191, 206);
+}
+.numeff {
+  margin-right: 19rem;
+  margin-top: -27rem;
+  padding-bottom: 8rem;
+  color: rgb(26, 191, 206);
+  font-size: 20rem;
+}
+.titre {
+  color: white;
+  margin: 10px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.recherche {
+  text-align: center;
+}
+
+.input {
+  background-color: black;
+  height: 39px;
+
+  border: 2px solid rgb(187, 45, 59);
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding-bottom: 6px;
+}
+.input[type="text"] {
+  color: white;
+}
+
+.add {
+  height: 40px;
+  width: 150px;
+}
+.bouton3 {
+  text-align: center;
+}
+
+#case {
+  background-color: black;
+  height: 39px;
+
+  border: 2px solid rgb(187, 45, 59);
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding-bottom: 6px;
+}
+#case[type="text"] {
+  color: white;
+}
+#case[type="number"] {
+  color: white;
+}
+.heni[type="text"] {
+  color: white;
+}
+
+.Case {
+  background-color: rgb(20, 20, 44);
+  color: rgb(187, 45, 59);
+  border: 2px solid rgb(187, 45, 59);
+  border-radius: 4px;
+}
+.delete {
+  background-color: rgb(26, 191, 206);
+  margin-right: 19rem;
+  margin-top: -19rem;
+  border-color: transparent;
+}
+.voirplus {
+  background-color: rgb(20, 20, 44);
+  margin-left: 35rem;
+  margin-bottom: 5rem;
+  border-color: transparent;
+}
+.ajouter {
+  background-color: rgb(20, 20, 44);
+  margin-right: 35rem;
+  margin-bottom: 5rem;
+  border-color: transparent;
+}

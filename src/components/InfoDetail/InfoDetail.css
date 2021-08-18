@@ -1,0 +1,6 @@
+.detail {
+  background: linear-gradient(90deg, rgb(10, 61, 98) 0%, rgb(234, 66, 73) 100%);
+  padding: 12rem;
+  margin-top: 10px;
+  color: white;
+}
